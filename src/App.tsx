@@ -1,11 +1,11 @@
 import './App.css';
-import { ApiCoffeCarruselBasic } from './components/ApiCoffeCarruselBasic'
+import { RickAndMortyApi  } from './components';
 
 function App() {
 
   return (
     <div>
-      <ApiCoffeCarruselBasic/>
+      <RickAndMortyApi/>
     </div>
   )
 }

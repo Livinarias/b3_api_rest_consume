@@ -1,6 +1,16 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
+// {
+//   "title": "Latte",
+//   "description": "Som den mest populära kaffedrycken där ute består latte av en skvätt espresso och ångad mjölk med bara en gnutta skum. Den kan beställas utan smak eller med smak av allt från vanilj till pumpa kryddor.",
+//   "ingredients": [
+//     "Espresso",
+//     "Ångad mjölk"
+//   ],
+//   "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhdHRlfGVufDB8fDB8fHww",
+//   "id": 2
+// },
 
 export const ApiCoffeCarruselBasic = () => {
 
